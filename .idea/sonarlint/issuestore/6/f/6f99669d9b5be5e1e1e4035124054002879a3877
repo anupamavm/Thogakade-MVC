@@ -1,0 +1,19 @@
+
+m
+java:S1104"PMake pane a static final constant or non-public and provide accessors if needed.(ç¢ıã8Ú€ÛÇ1
+w
+java:S1104"UMake btnSubmit a static final constant or non-public and provide accessors if needed.(òâ“èúÿÿÿÿ8êı»Ç1
+w
+java:S1104"UMake txtSubmit a static final constant or non-public and provide accessors if needed.(–±ÊÊıÿÿÿÿ8êı»Ç1
+p
+java:S1104"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•8êı»Ç1
+u
+java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8êı»Ç1
+£
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îòô“øÿÿÿÿ8òı»Ç1
+
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëŞ‚•8òı»Ç1
+O
+java:S1172:"2Remove this unused method parameter "actionEvent".(¬Üç8ùı»Ç1
+O
+java:S1172G"2Remove this unused method parameter "actionEvent".(¼ËúÄ8¤ÂÈÇ1

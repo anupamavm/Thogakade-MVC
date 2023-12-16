@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #EEEEEE;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DashboardFormController">
+   <children>
+      <JFXButton fx:id="btnOrder" contentDisplay="TOP" graphicTextGap="15.0" layoutX="22.0" layoutY="14.0" onAction="#orderBtnOnAction" prefHeight="57.0" prefWidth="119.0" ripplerFill="#393e46" style="-fx-background-color: #00ADB5;" text="Order" textFill="WHITE" textOverrun="CLIP" AnchorPane.bottomAnchor="529.0" AnchorPane.leftAnchor="22.0" AnchorPane.rightAnchor="659.0" AnchorPane.topAnchor="14.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+      <JFXButton fx:id="btnCustomers" contentDisplay="TOP" graphicTextGap="15.0" layoutX="160.0" layoutY="14.0" onAction="#customerBtnOnAction" prefHeight="57.0" prefWidth="119.0" ripplerFill="#393e46" style="-fx-background-color: #00ADB5;" text="Customers" textFill="WHITE" textOverrun="CLIP" AnchorPane.leftAnchor="160.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+      <JFXButton fx:id="btnItems" contentDisplay="TOP" graphicTextGap="15.0" layoutX="301.0" layoutY="14.0" onAction="#itemsBtnOnAction" prefHeight="57.0" prefWidth="119.0" ripplerFill="#393e46" style="-fx-background-color: #00ADB5;" text="Items" textFill="WHITE" textOverrun="CLIP" AnchorPane.bottomAnchor="529.0" AnchorPane.topAnchor="14.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+      <JFXButton fx:id="btnAbout" contentDisplay="TOP" graphicTextGap="15.0" layoutX="442.0" layoutY="14.0" onAction="#aboutBtnOnAction" prefHeight="57.0" prefWidth="119.0" ripplerFill="#393e46" style="-fx-background-color: #00ADB5;" text="About" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </JFXButton>
+      <Label fx:id="lblTime" alignment="BOTTOM_RIGHT" contentDisplay="CENTER" layoutX="630.0" layoutY="40.0" prefHeight="37.0" prefWidth="149.0" text="HH-mm-ss" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblDate" alignment="TOP_RIGHT" contentDisplay="CENTER" layoutX="629.0" layoutY="15.0" prefHeight="37.0" prefWidth="149.0" text="YYYY-MM-DD" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
