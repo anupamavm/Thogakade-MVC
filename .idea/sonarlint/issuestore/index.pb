@@ -9,3 +9,27 @@ d
 4src/main/java/controller/CustomerFormController.java,a\a\aa193ff54fd65b5e52212341451fb916ba8b0d1a
 `
 0src/main/java/controller/ItemFormController.java,b\b\bb5b1cb5a3a4bbc31ccbfe04eaf93e6e052b0a71
+A
+Thogakade MVC.iml,6\1\6120955ee0ad08ffc2ef475e406858e73fd588cf
+Å
+Q.idea/sonarlint/securityhotspotstore/6/9/693f45b979284b5fd7f0440c3651a9a651a436fe,2\3\23208e0f28d723eb9999e2438656b81d8abaca60
+Å
+Q.idea/sonarlint/securityhotspotstore/6/f/6f99669d9b5be5e1e1e4035124054002879a3877,9\4\94a8f7f11187fce7c02d261901f4aa39007429e6
+Å
+Q.idea/sonarlint/securityhotspotstore/a/a/aa193ff54fd65b5e52212341451fb916ba8b0d1a,b\2\b2d92daf6d7c615ed8c8b152d5b02c1f6f778416
+Å
+Q.idea/sonarlint/securityhotspotstore/b/b/bb5b1cb5a3a4bbc31ccbfe04eaf93e6e052b0a71,d\d\dd3bb1777b6ed647bc2d6544bfdc5ebc92cd2110
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Y
+)src/main/resources/view/CustomerForm.fxml,a\c\acd91821c14a7fa136e03465100ed42a1e379376
+V
+&src/main/resources/view/Dashboard.fxml,e\1\e12e7e2d007a3ef761a0bd2b3c887618edf98d36
+U
+%src/main/resources/view/ItemForm.fxml,7\0\70dcb4f25d4b87cfd0e50873d60c45ad39e9db9e
